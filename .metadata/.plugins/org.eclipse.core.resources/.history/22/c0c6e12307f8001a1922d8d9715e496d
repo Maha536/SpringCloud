@@ -1,0 +1,5 @@
+package com.maha.logging.controller;
+
+public class LoggingController {
+
+}
