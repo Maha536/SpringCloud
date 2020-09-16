@@ -3,6 +3,4 @@ server.port=3816
 
 #by deafult logging level is info , so we cant trace. for that we change the logging level to trace
 #logging.level.root=TRACE
-logging.level.root=DEBUG
-
-logging.file.name=LoggingExample
+logging.level..root=DEBUG

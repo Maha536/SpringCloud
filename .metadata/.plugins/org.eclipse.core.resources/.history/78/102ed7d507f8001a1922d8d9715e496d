@@ -14,8 +14,6 @@ public class LoggingController {
 	@RequestMapping("/")
 	public String home() {
 		logger.error("Error occured");
-		logger.info("Home invoked");
-		logger.trace("controller method accessed");
 		return "This is an example for Logging ";
 	}
 }
